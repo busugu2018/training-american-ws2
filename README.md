@@ -1,0 +1,2 @@
+# training-american-ws2
+Building our API using Anypoint Studio (Review of the training made in Jan-Feb 2019). We created a mule app using Anypoint Studio, added a listening endpoint with a call Flights/GET, a database which we connected to mySQL tool to make a query call, we added a transform message to be able to map and read the code. Then created a RESTful interface using the RAML we previously built on Anypoint Exchange, then finally connected the interface with the implementation. 
